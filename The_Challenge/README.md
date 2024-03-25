@@ -15,7 +15,7 @@ To run it on your computer, follow these steps:
 
 1) copy the reposity on your computer using the following command:
 
-   git clone PaoloTognini/The_Challenge
+   git clone PaoloTognini/south-park-commons/The_Challenge
 
 2) install the requirements.txt (essentially containing the python library Pygame) using the following command:
 
